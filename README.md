@@ -2,9 +2,9 @@
 
 
 - 🔭 I’m currently enrolled in Ecole 42 which is a programming school.
-- 🌱 I’m currently mostly working on Ecole 42 projects and learning C.
+- 🌱 I’m mostly working on Ecole 42 projects and learning C. Also learning how to make games with unity.
 - 👯 I’m trying to experience different programming languages and fields.
-- 🤔 I’m interested in VR/AR, Blockchain, Mobile App Development and games especially Play-to-Earn games.
+- 🤔 I’m interested in VR/AR, Blockchain, Mobile App Development and games.
 - 💬 Ask me about anything.
 
 
