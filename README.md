@@ -10,6 +10,3 @@
 - Background:
 - Previously I used C, C#, Java, Python.
 - I have used Unity and Android Studio also I created a basic inventory management app on Netbeans with Java.
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=kececihasan&&show_icons=true&title_color=0098CE&icon_color=0098CE&text_color=000000&bg_color=FFFFFF">
