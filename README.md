@@ -1,12 +1,15 @@
-### Hi there 👋
+Hi there 👋
 
+I'm Hasan Keçeci, a passionate Software Developer who enjoys building scalable and efficient web applications.
 
-- 🔭 Software Developer.
-- 🌱 I'm using/used HTML, CSS, Bootstrap 5, Tailwind, Javascript, PHP, Node.js, Next.js, Vercel, Sql, Mongo DB, Mysql.
-- 👯 I’m also trying to experience different programming languages and fields.
-- 🤔 I will try to add the projects which I'm working on or completed to github. I might not be able to add some because they belong to a company.
-- 💬 Ask me about anything.
+🔭 Current Focus: Developing modern web applications and exploring new technologies.
 
-- Background:
-- Previously I used C, C#, Java, Python.
-- I have used Unity and Android Studio also I created a basic inventory management app on Netbeans with Java.
+🌱 Tech Stack: HTML, CSS, Tailwind CSS, JavaScript, TypeScript, PHP, Node.js, Next.js, AWS, Linux, SQL, PostgreSQL, MySQL.
+
+👯 What I Do: I mainly work on web-based projects but I also enjoy experimenting with different programming languages and technologies.
+
+💬 Ask Me About: Web development, server deployment, databases, or anything tech-related.
+
+📂 Projects: I share most of my personal and side projects here on GitHub. Some company-related projects may not be publicly available.
+
+💻 Hosting: I use Virtual Private Servers (VPS) with Ubuntu to host my applications, which I find much more cost-effective and practical.
